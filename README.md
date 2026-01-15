@@ -2,6 +2,8 @@
 
 A lightweight Chrome Extension to track the total amount declared for the **34th Grand Finale of the Great Orchestra of Christmas Charity (WOŚP) 2026**.
 
+[Link to extension in store!](https://chromewebstore.google.com/detail/wosp-2026-tracker/lghoclbanbodccddcggbhbaaalbblihm)  
+
 ![WOŚP Icon](icon48.png)
 
 ## 🌟 Features
